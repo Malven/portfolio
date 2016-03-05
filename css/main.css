@@ -1,0 +1,12 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+.collapse .nav li a, footer p {
+	text-transform: uppercase;
+}
