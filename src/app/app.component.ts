@@ -7,5 +7,4 @@ import { exportedRoutes } from './app-routing.module';
     styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    routes = exportedRoutes.slice(0, exportedRoutes.length - 1);
 }
