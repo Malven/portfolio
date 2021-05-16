@@ -1,46 +1,46 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Malven/portfolio.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Malven/portfolio/issues"
-  },
-  "homepage": "https://github.com/Malven/portfolio#readme",
-  "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "export": "next export",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "^9.3.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  },
-  "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.1.2",
-    "@typescript-eslint/eslint-plugin": "^2.27.0",
-    "@typescript-eslint/parser": "^2.27.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.10.1",
-    "eslint-config-react-app": "^5.2.1",
-    "eslint-plugin-flowtype": "^4.7.0",
-    "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.2",
-    "eslint-plugin-react": "^7.19.0",
-    "eslint-plugin-react-hooks": "^3.0.0",
-    "postcss-preset-env": "^6.7.0",
-    "prettier": "^2.0.4",
-    "tailwindcss": "^1.2.0"
-  }
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Malven/portfolio.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Malven/portfolio/issues"
+	},
+	"homepage": "https://github.com/Malven/portfolio#readme",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"export": "next export",
+		"start": "next start"
+	},
+	"dependencies": {
+		"next": "^latest",
+		"react": "^latest",
+		"react-dom": "^16.13.1"
+	},
+	"devDependencies": {
+		"@fullhuman/postcss-purgecss": "^2.1.2",
+		"@typescript-eslint/eslint-plugin": "^2.27.0",
+		"@typescript-eslint/parser": "^2.27.0",
+		"babel-eslint": "^10.1.0",
+		"eslint": "^6.8.0",
+		"eslint-config-prettier": "^6.10.1",
+		"eslint-config-react-app": "^5.2.1",
+		"eslint-plugin-flowtype": "^4.7.0",
+		"eslint-plugin-import": "^2.20.2",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"eslint-plugin-prettier": "^3.1.2",
+		"eslint-plugin-react": "^7.19.0",
+		"eslint-plugin-react-hooks": "^3.0.0",
+		"postcss-preset-env": "^6.7.0",
+		"prettier": "^2.0.4",
+		"tailwindcss": "^1.2.0"
+	}
 }
